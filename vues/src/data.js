@@ -5,7 +5,7 @@ export const items = [
        side: 'bird', 
         img: [
            'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Qui-Gon-Jinn-180x148.jpg',
-           '/src/assets/Qui-Gon Jinn.png'
+           ' /Qui-Gon Jinn.png'
         ]
    },
    { 
@@ -14,7 +14,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Obi-Wan-Kenobi-180x148.jpg',
-           '/src/assets/Obi-Wan Kenobi.png'
+           ' /Obi-Wan Kenobi.png'
         ]
    },
        
@@ -24,7 +24,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Yoda-180x148.jpg',
-           '/src/assets/Yoda.png'
+           ' /Yoda.png'
         ]
    },
    { 
@@ -33,7 +33,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Jar-Jar-Binks-180x148.jpg',
-           '/src/assets/Jar Jar Binks.png'
+           ' /Jar Jar Binks.png'
         ]
    },
    { 
@@ -42,7 +42,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Anakin-Episode-I-180x148.jpg',
-           '/src/assets/Anakin Skywalker, Episode I (Podracer).png'
+           ' /Anakin Skywalker, Episode I (Podracer).png'
         ]
    },
    { 
@@ -51,7 +51,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Captain-Panaka-180x148.jpg',
-           '/src/assets/Captain Panaka.png'
+           ' /Captain Panaka.png'
         ]
    },
    { 
@@ -60,7 +60,7 @@ export const items = [
        side: 'bird',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Padme-Amidala-180x148.jpg',
-           '/src/assets/Padme Amidala.png'
+           ' /Padme Amidala.png'
         ]
    },
    { 
@@ -69,7 +69,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Anakin-Episode-II-180x148.jpg',
-           '/src/assets/Anakin, Episode II (Padawan).png'
+           ' /Anakin, Episode II (Padawan).png'
         ]
    },
    { 
@@ -78,7 +78,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Jedi-Youngling-180x148.jpg',
-           '/src/assets/Jedi Youngling.png'
+           ' /Jedi Youngling.png'
         ]
    },
    { 
@@ -87,7 +87,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Mace-Windu-180x148.jpg',
-           '/src/assets/Mace Windu.png'
+           ' /Mace Windu.png'
         ]
    },
    { 
@@ -96,7 +96,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Chewbacca-180x148.jpg',
-           '/src/assets/Chewbacca.png'
+           ' /Chewbacca.png'
         ]
    },
    { 
@@ -105,7 +105,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-R2-D2-180x148.jpg',
-           '/src/assets/R2-D2.png'
+           ' /R2-D2.png'
         ]
    },
    { 
@@ -114,7 +114,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-C-3PO-180x148.jpg',
-           '/src/assets/C-3PO.png'
+           ' /C-3PO.png'
         ]
    },
    { 
@@ -123,7 +123,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Princess-Leia-180x148.jpg',
-           '/src/assets/Princess Leia.png'
+           ' /Princess Leia.png'
         ]
    },
    { 
@@ -132,7 +132,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Luke-Skywalker-Pilot-180x148.jpg',
-           '/src/assets/Luke Skywalker (Pilot).png'
+           ' /Luke Skywalker (Pilot).png'
         ]
    },
    { 
@@ -141,7 +141,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Luke-Skywalker-Endor-180x148.jpg',
-           '/src/assets/Luke Skywalker (Endor).png'
+           ' /Luke Skywalker (Endor).png'
         ]
    },
    { 
@@ -150,7 +150,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Luke-Skywalker-Jedi-180x148.jpg',
-           '/src/assets/Luke (Jedi).png'
+           ' /Luke (Jedi).png'
         ]
    },
    { 
@@ -159,7 +159,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Han-Solo-180x148.jpg',
-           '/src/assets/Han Solo.png'
+           ' /Han Solo.png'
         ]
    },
    { 
@@ -168,7 +168,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Silver-C-3PO-180x148.jpg',
-           '/src/assets/Silver C-3PO.png'
+           ' /Silver C-3PO.png'
         ]
    },
    { 
@@ -177,7 +177,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Kit-Fisto-180x148.jpg',
-           '/src/assets/Kit Fisto.png'
+           ' /Kit Fisto.png'
         ]
    },
    { 
@@ -186,7 +186,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Crabonite-Han-Solo-180x148.jpg',
-           '/src/assets/Carbonite Han Solo.png'
+           ' /Carbonite Han Solo.png'
         ]
    },
    { 
@@ -195,7 +195,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Lando-180x148.jpg',
-           '/src/assets/Lando Calrissian.png'
+           ' /Lando Calrissian.png'
         ]
    },
    { 
@@ -204,7 +204,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Wicket-180x148.jpg',
-           '/src/assets/Wicket the Ewok.png'
+           ' /Wicket the Ewok.png'
         ]
    },
    { 
@@ -213,7 +213,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Ezra-Bridger-180x148.jpg',
-           '/src/assets/Ezra Bridger.png'
+           ' /Ezra Bridger.png'
         ]
    },
    { 
@@ -222,7 +222,7 @@ export const items = [
        side: 'bird' ,
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Sabine-Wren-180x148.jpg',
-           '/src/assets/Sabine Wren.png'
+           ' /Sabine Wren.png'
         ]
    },
    { 
@@ -231,7 +231,7 @@ export const items = [
        side: 'bird',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Chopper-180x148.jpg',
-           '/src/assets/Chopper.png'
+           ' /Chopper.png'
         ] 
    },
    { 
@@ -240,7 +240,7 @@ export const items = [
        side: 'bird',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Hera-Syndulla-180x148.jpg',
-           '/src/assets/Hera Syndulla.png'
+           ' /Hera Syndulla.png'
         ] 
    }
        ,
@@ -250,7 +250,7 @@ export const items = [
        side: 'bird',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Kanan-Jarrus-180x148.jpg',
-           '/src/assets/Kanan Jarrus.png'
+           ' /Kanan Jarrus.png'
         ] 
    },
    { 
@@ -259,7 +259,7 @@ export const items = [
        side: 'bird',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Garazeb-Orrelios-180x148.jpg',
-           '/src/assets/Garazeb “Zeb” Orrelios.png'
+           ' /Garazeb “Zeb” Orrelios.png'
         ] 
    },
 
@@ -275,7 +275,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Emperor-Palpatine-180x148.jpg',
-           '/src/assets/Darth Sidious.png'
+           ' /Darth Sidious.png'
         ]
    },
    { 
@@ -284,7 +284,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Jango-Fett-180x148.jpg',
-           '/src/assets/Jango Fett.png'
+           ' /Jango Fett.png'
         ]
    },
    { 
@@ -293,7 +293,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Battle-Droid-180x148.jpg',
-           '/src/assets/Battle Droid.png'
+           ' /Battle Droid.png'
         ]
    },
    { 
@@ -302,7 +302,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Darth-Maul-180x148.jpg',
-           '/src/assets/Darth Maul.png'
+           ' /Darth Maul.png'
         ]
    },
    { 
@@ -311,7 +311,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Count-Dooku-180x148.jpg',
-           '/src/assets/Count Dooku.png'
+           ' /Count Dooku.png'
         ]
    },
    { 
@@ -320,7 +320,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Droideka-180x148.jpg',
-           '/src/assets/Droideka.png'
+           ' /Droideka.png'
         ]
    },
    { 
@@ -329,7 +329,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Zam-Wesell-180x148.jpg',
-           '/src/assets/Zam Wesell.png'
+           ' /Zam Wesell.png'
         ]
    },
    { 
@@ -338,7 +338,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-General-Grievous-180x148.jpg',
-           '/src/assets/General Grievous.png'
+           ' /General Grievous.png'
         ]
    },
    { 
@@ -347,7 +347,7 @@ export const items = [
        side: 'pig',
        img: [
            'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Anakin-Skywalker-Sith-Apprentice-180x148.jpg',
-           '/src/assets/Anakin, Episode III (Sith Apprentice).png'
+           ' /Anakin, Episode III (Sith Apprentice).png'
         ]
    },
    { 
@@ -356,7 +356,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Darth-Vader-180x148.jpg',
-           '/src/assets/Darth Vader.png'
+           ' /Darth Vader.png'
         ]
    },
    { 
@@ -365,7 +365,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Boba-Fett-180x148.jpg',
-           '/src/assets/Boba Fett.png'
+           ' /Boba Fett.png'
         ]
    },
    { 
@@ -374,7 +374,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Biker-Scount-180x148.jpg',
-           '/src/assets/Biker Scout.png'
+           ' /Biker Scout.png'
         ]
    },
    { 
@@ -383,7 +383,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-TIE-Fighter-Pilot-180x148.jpg',
-           '/src/assets/TIE Fighter Pilot.png'
+           ' /TIE Fighter Pilot.png'
         ]
    },
    { 
@@ -392,7 +392,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Stormtrooper-180x148.jpg',
-           '/src/assets/Stormtrooper.png'
+           ' /Stormtrooper.png'
         ]
    },
    { 
@@ -401,7 +401,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Red-Battle-Droid-180x148.jpg',
-           '/src/assets/Red Battle Droid.png'
+           ' /Red Battle Droid.png'
         ]
    },
    { 
@@ -410,7 +410,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Hologram-Darth-Sidious-180x148.jpg',
-           '/src/assets/Hologram Darth Sidious.png'
+           ' /Hologram Darth Sidious.png'
         ]
    },
    { 
@@ -419,7 +419,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2013/09/Angry-Birds-Star-Wars-2-Character-Shadowtrooper-180x148.jpg',
-           '/src/assets/Shadowtrooper.png'
+           ' /Shadowtrooper.png'
         ]
    },
    { 
@@ -428,7 +428,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Shocktrooper-180x148.jpg',
-           '/src/assets/Shocktrooper.png'
+           ' /Shocktrooper.png'
         ]
    },
    { 
@@ -437,7 +437,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Jabba-the-Hutt-180x148.jpg',
-           '/src/assets/Jabba the Hutt.png'
+           ' /Jabba the Hutt.png'
         ]
    },
    { 
@@ -446,7 +446,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Royal-Guard-180x148.jpg',
-           '/src/assets/Royal Guard.png'
+           ' /Royal Guard.png'
         ]
    },
    { 
@@ -455,7 +455,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/02/Angry-Birds-Star-Wars-2-Character-Tusken-Raider-180x148.jpg',
-           '/src/assets/Tusken Raider.png'
+           ' /Tusken Raider.png'
         ]
    },
    { 
@@ -464,7 +464,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-The-Inquisitor-180x148.jpg',
-           '/src/assets/The Inquisitor.png'
+           ' /The Inquisitor.png'
         ]
    },
    { 
@@ -473,7 +473,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Imperial-Officer-180x148.jpg',
-           '/src/assets/Imperial Officer.png'
+           ' /Imperial Officer.png'
         ]
    },
    { 
@@ -482,7 +482,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-AT-DP-Pilot-180x148.jpg',
-           '/src/assets/AT-DP Pilot.png'
+           ' /AT-DP Pilot.png'
         ]
    },
    { 
@@ -491,7 +491,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Cikatro-Vizago-180x148.jpg',
-           '/src/assets/Cikatro Vizago.png'
+           ' /Cikatro Vizago.png'
         ]
    },
    { 
@@ -500,7 +500,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Vizago-Droid-180x148.jpg',
-           '/src/assets/Vizago Droid.png'
+           ' /Vizago Droid.png'
         ]
    },
    { 
@@ -509,7 +509,7 @@ export const items = [
        side: 'pig',
        img: [
           'https://www.angrybirdsnest.com/wp-content/uploads/2014/10/Angry-Birds-Star-Wars-2-Agent-Kallus-180x148.jpg',
-           '/src/assets/Agent Kallus.png'
+           ' /Agent Kallus.png'
         ]
    },
  ];
